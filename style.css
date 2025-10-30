@@ -29,7 +29,8 @@ html {
   @media screen and (min-width: 1200px){
     .box{
       border: 2px solid green;
-
+height: 100px;
+padding: 5px;
     }
   }
 
